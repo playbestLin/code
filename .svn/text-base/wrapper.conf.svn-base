@@ -1,0 +1,53 @@
+# Java Application完整路径
+wrapper.java.command=java
+
+wrapper.java.mainclass=org.tanukisoftware.wrapper.WrapperSimpleApp 
+
+#定义程序运行的classpath
+wrapper.java.classpath.1=wrapper.jar
+wrapper.java.classpath.2=lib/rdt.jar
+
+# Java Library Path (location of Wrapper.DLL or libwrapper.so)
+wrapper.java.library.path.1=lib/ 
+
+# Java Additional Parameters
+#wrapper.java.additional.1=
+
+# Initial Java Heap Size (in MB)
+#wrapper.java.initmemory=3
+
+# Maximum Java Heap Size (in MB)
+#wrapper.java.maxmemory=64
+
+# 运行的Main Class
+wrapper.app.parameter.1=com.nari.rdt.server.Start
+
+wrapper.console.format=PM
+wrapper.console.loglevel=INFO
+wrapper.logfile=Beanskt.log
+wrapper.logfile.format=LPTM
+wrapper.logfile.loglevel=INFO
+
+wrapper.logfile.maxsize=0
+wrapper.logfile.maxfiles=0
+wrapper.syslog.loglevel=NONE
+
+#window服务配置
+wrapper.console.title=rdt
+#服务名
+wrapper.ntservice.name=rdt
+
+# 显示名称
+wrapper.ntservice.displayname=rdt
+
+# 描述
+wrapper.ntservice.description=rdt
+
+# 依赖项
+wrapper.ntservice.dependency.1=
+
+# 启动模式：  AUTO_START or DEMAND_START
+wrapper.ntservice.starttype=DEMAND_START
+
+# 是否交互.
+wrapper.ntservice.interactive=false

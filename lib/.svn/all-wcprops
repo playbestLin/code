@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/NARI_IMS/!svn/ver/10325/trunk/Project/BackServices/RDT/forJDK6/rdt/lib
+END
+commons-beanutils-1.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/commons-beanutils-1.8.3.jar
+END
+org.springframework.web-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/org.springframework.web-3.0.7.RELEASE.jar
+END
+quartz-all-1.8.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/quartz-all-1.8.6.jar
+END
+mysql-connector-java-5.1.14-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/mysql-connector-java-5.1.14-bin.jar
+END
+org.apache.jasper.glassfish-2.2.2.v201112011158.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/org.apache.jasper.glassfish-2.2.2.v201112011158.jar
+END
+spring-context-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/spring-context-3.0.7.RELEASE.jar
+END
+joda-time-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/NARI_IMS/!svn/ver/8176/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/joda-time-2.2.jar
+END
+org.springframework.transaction-3.0.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/org.springframework.transaction-3.0.3.RELEASE.jar
+END
+slf4j-log4j12-1.6.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/slf4j-log4j12-1.6.6.jar
+END
+spring-beans-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/spring-beans-3.0.7.RELEASE.jar
+END
+spring-jms-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/spring-jms-3.0.7.RELEASE.jar
+END
+spring-tx-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/spring-tx-3.0.7.RELEASE.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/dom4j-1.6.1.jar
+END
+activemq-spring-5.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/activemq-spring-5.7.0.jar
+END
+jackson-mapper-asl-1.9.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/NARI_IMS/!svn/ver/42052/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/jackson-mapper-asl-1.9.13.jar
+END
+cglib-2.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/cglib-2.2.2.jar
+END
+httpclient-4.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/httpclient-4.1.3.jar
+END
+asm-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/asm-3.2.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/commons-dbcp-1.4.jar
+END
+org.springframework.jdbc-3.0.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/org.springframework.jdbc-3.0.0.RELEASE.jar
+END
+org.springframework.aspects-3.0.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/org.springframework.aspects-3.0.0.RELEASE.jar
+END
+jackson-core-asl-1.9.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/NARI_IMS/!svn/ver/42052/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/jackson-core-asl-1.9.13.jar
+END
+ojdbc14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/ojdbc14.jar
+END
+commons-dbcp-1.4-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/commons-dbcp-1.4-javadoc.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/commons-collections-3.2.1.jar
+END
+jetty-all-8.0.4.v20111024.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/jetty-all-8.0.4.v20111024.jar
+END
+httpcore-4.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/httpcore-4.1.3.jar
+END
+activeio-core-3.1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/activeio-core-3.1.4.jar
+END
+javax.servlet.jsp.jstl-1.2.0.v201105211821.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar
+END
+junit-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/junit-4.4.jar
+END
+javax.el-2.2.0.v201108011116.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/javax.el-2.2.0.v201108011116.jar
+END
+activemq-xmpp-5.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/activemq-xmpp-5.7.0.jar
+END
+activemq-optional-5.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/activemq-optional-5.7.0.jar
+END
+commons-dbcp-1.4-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/commons-dbcp-1.4-sources.jar
+END
+log4j-1.2.17.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/log4j-1.2.17.jar
+END
+aspectjweaver-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/aspectjweaver-1.6.2.jar
+END
+org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar
+END
+com.sun.el-2.2.0.v201108011116.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/com.sun.el-2.2.0.v201108011116.jar
+END
+slf4j-api-1.5.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/slf4j-api-1.5.10.jar
+END
+hibernate-validator-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/hibernate-validator-4.1.0.Final.jar
+END
+spring-core-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/spring-core-3.0.7.RELEASE.jar
+END
+xbean-spring-3.11.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/xbean-spring-3.11.1.jar
+END
+org.springframework.orm-3.0.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/org.springframework.orm-3.0.0.RELEASE.jar
+END
+javax.servlet.jsp-2.2.0.v201112011158.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/javax.servlet.jsp-2.2.0.v201112011158.jar
+END
+commons-io.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/commons-io.jar
+END
+spring-expression-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/spring-expression-3.0.7.RELEASE.jar
+END
+commons-pool-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/commons-pool-1.6.jar
+END
+activemq-all-5.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/activemq-all-5.7.0.jar
+END
+activemq-pool-5.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/activemq-pool-5.7.0.jar
+END
+commons-codec-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/commons-codec-1.4.jar
+END
+com.springsource.org.aopalliance-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/com.springsource.org.aopalliance-1.0.0.jar
+END
+org.springframework.web.servlet-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/org.springframework.web.servlet-3.0.7.RELEASE.jar
+END
+libthrift-0.9.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/libthrift-0.9.0.jar
+END
+servlet-api-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/servlet-api-3.0.jar
+END
+slf4j-api-1.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/slf4j-api-1.6.0.jar
+END
+ibatis-2.3.4.726.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/ibatis-2.3.4.726.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/commons-logging-1.1.1.jar
+END
+commons-lang-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/commons-lang-2.5.jar
+END
+xwork-core-2.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/xwork-core-2.2.1.jar
+END
+geronimo-j2ee-management_1.1_spec-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar
+END
+spring-aop-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/spring-aop-3.0.7.RELEASE.jar
+END
+spring-asm-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/lib/spring-asm-3.0.7.RELEASE.jar
+END

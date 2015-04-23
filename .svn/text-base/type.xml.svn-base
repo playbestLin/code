@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IMSDATA>
+<Appid value="alertservice">
+<type value="alarm"/>
+</Appid>
+<Appid value="DNSdetector">
+<type value="status"/>
+</Appid>
+<Appid value="HDSInterface">
+<type value="config"/>
+</Appid>
+<Appid value="imsv4">
+<type value="getPerformanceData"/>
+</Appid>
+</IMSDATA>

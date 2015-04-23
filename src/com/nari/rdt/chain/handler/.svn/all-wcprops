@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/NARI_IMS/!svn/ver/14205/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/chain/handler
+END
+Deliver2DBHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/NARI_IMS/!svn/ver/14205/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/chain/handler/Deliver2DBHandler.java
+END
+SecurityCheckHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/chain/handler/SecurityCheckHandler.java
+END
+Deliver2H2Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/NARI_IMS/!svn/ver/43042/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/chain/handler/Deliver2H2Handler.java
+END
+Deliver2MQHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/chain/handler/Deliver2MQHandler.java
+END
+DistributionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/NARI_IMS/!svn/ver/43042/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/chain/handler/DistributionHandler.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/chain/handler/Handler.java
+END
+TransshipmentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/NARI_IMS/!svn/ver/8553/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/chain/handler/TransshipmentHandler.java
+END

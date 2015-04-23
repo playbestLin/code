@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/NARI_IMS/!svn/ver/14205/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt
+END
+SpringBeanLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/SpringBeanLoader.java
+END
+InitializeLocale.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/InitializeLocale.java
+END
+MsgHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/MsgHandler.java
+END
+InitializeCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/InitializeCache.java
+END
+PropertiesParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/NARI_IMS/!svn/ver/8176/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/PropertiesParse.java
+END
+XmlParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/NARI_IMS/!svn/ver/10315/trunk/Project/BackServices/RDT/forJDK6/rdt/src/com/nari/rdt/XmlParse.java
+END

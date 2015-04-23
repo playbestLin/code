@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/NARI_IMS/!svn/ver/14205/trunk/Project/BackServices/RDT/forJDK6/rdt
+END
+type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/NARI_IMS/!svn/ver/13734/trunk/Project/BackServices/RDT/forJDK6/rdt/type.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/.classpath
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/NARI_IMS/!svn/ver/33619/trunk/Project/BackServices/RDT/forJDK6/rdt/config.properties
+END
+wrapper.exe
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/NARI_IMS/!svn/ver/10316/trunk/Project/BackServices/RDT/forJDK6/rdt/wrapper.exe
+END
+start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/NARI_IMS/!svn/ver/43042/trunk/Project/BackServices/RDT/forJDK6/rdt/start.bat
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/.project
+END
+wrapper.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/NARI_IMS/!svn/ver/10316/trunk/Project/BackServices/RDT/forJDK6/rdt/wrapper.conf
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/NARI_IMS/!svn/ver/7568/trunk/Project/BackServices/RDT/forJDK6/rdt/.springBeans
+END
+rmiserver.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/NARI_IMS/!svn/ver/43042/trunk/Project/BackServices/RDT/forJDK6/rdt/rmiserver.properties
+END
+wrapper.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/NARI_IMS/!svn/ver/10316/trunk/Project/BackServices/RDT/forJDK6/rdt/wrapper.dll
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/NARI_IMS/!svn/ver/14086/trunk/Project/BackServices/RDT/forJDK6/rdt/log4j.properties
+END
+wrapper.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/NARI_IMS/!svn/ver/10316/trunk/Project/BackServices/RDT/forJDK6/rdt/wrapper.jar
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/NARI_IMS/!svn/ver/10316/trunk/Project/BackServices/RDT/forJDK6/rdt/build.xml
+END

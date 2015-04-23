@@ -1,0 +1,33 @@
+log4j.rootLogger=INFO, stdout,common-all,common-error
+
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern=threadName %t  speed %r[%-5p]_%d{yyyy-MM-dd HH:mm:ss} :%m%n
+
+#common-all file appender
+log4j.appender.common-all=org.apache.log4j.DailyRollingFileAppender
+log4j.appender.common-all.file=./log/rdt.log
+log4j.appender.common-all.layout=org.apache.log4j.PatternLayout
+log4j.appender.common-all.layout.conversionPattern= %d %-5p %c - %m%n
+
+log4j.appender.common-error=org.apache.log4j.DailyRollingFileAppender
+log4j.appender.common-error.file=./log/rdt-error.log
+log4j.appender.common-error.layout=org.apache.log4j.PatternLayout
+log4j.appender.common-error.threshold=ERROR
+log4j.appender.common-error.layout.conversionPattern= %d %-5p %c - %m%n
+
+#spring
+log4j.logger.org.springframework=INFO
+log4j.logger.org.springframework.jdbc.core.JdbcTemplate=DEBUG
+
+# debug log for ibatis2.3
+#log4j.logger.java.sql.Connection=DEBUG,common-dao
+#log4j.logger.java.sql.Statement=INFO,common-dao
+#log4j.logger.java.sql.PreparedStatement=INFO,common-dao
+#log4j.logger.java.sql.ResultSet=INFO,common-dao
+
+# debug log for ibatis3
+log4j.logger.java.sql.Connection=DEBUG
+log4j.logger.java.sql.Statement=DEBUG
+log4j.logger.java.sql.PreparedStatement=DEBUG
+log4j.logger.java.sql.ResultSet=INFO
